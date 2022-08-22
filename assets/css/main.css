@@ -298,10 +298,10 @@
 /* Box */
 
 	.thumbnails {
-		display: -moz-flex;
+/* 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: flex; */
 /* 		-moz-align-items: stretch;
 		-webkit-align-items: stretch;
 		-ms-align-items: stretch;
