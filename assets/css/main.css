@@ -310,10 +310,10 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center; */
-		-moz-flex-wrap: wrap;
+/* 		-moz-flex-wrap: wrap;
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
-		flex-wrap: wrap;
+		flex-wrap: wrap; */
 	}
 
 /* 		.thumbnails .box {
