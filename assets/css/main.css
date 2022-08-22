@@ -295,7 +295,7 @@
 		margin-top: -0.6em;
 	}
 
-/* Box */
+/* Box
 
 	.thumbnails {
 		display: -moz-flex;
@@ -335,7 +335,14 @@
 					width: 100%;
 				}
 
-			}
+			} */
+
+/* Box */
+
+.thumbnails .box {
+	margin: 0 1em 2em 1em;
+	width: 30%;
+}
 
 /* Form */
 
