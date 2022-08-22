@@ -1085,8 +1085,8 @@
 		-webkit-box-sizing: content-box;
 		-ms-box-sizing: content-box;
 		box-sizing: content-box;
-		background: red;
-		box-shadow: 0 0.5em 3em 0 red;
+		background: blue;
+		box-shadow: 0 0.5em 3em 0 purple;
 		border-radius: 4px;
 		padding: 2em;
 		overflow: hidden;
